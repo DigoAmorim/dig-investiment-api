@@ -1,0 +1,13 @@
+{
+  "name": "dig-investiment-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "json-server": "0.16.3"
+  },
+  "keywords": []
+}
