@@ -2250,5 +2250,13 @@
       "qtd": 42,
       "data": "2021-01-11"
     }
+  ],
+  "credenciais": [
+    {
+      "id": 1,
+      "usuario": "ramorim",
+      "senha": "dig123",
+      "token": "R3A2M1OGRIIDM"
+    }
   ]
 }
