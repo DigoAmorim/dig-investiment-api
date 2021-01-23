@@ -2258,6 +2258,13 @@
       "senha": "dig123",
       "token": "R3A2M1OGRIIDM",
       "carteira": "Rodrigo"
+    },
+    {
+      "id": 2,
+      "usuario": "teste123",
+      "senha": "senha123",
+      "token": "T3E2S1TAEH1N2E3S",
+      "carteira": "Carteira Teste"
     }
   ]
 }
